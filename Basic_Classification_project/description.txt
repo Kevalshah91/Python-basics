@@ -1,4 +1,4 @@
-### Project Description:
+Project Description:
 Title: Customer Churn Prediction
 
 This project aims to develop a robust machine learning model employing the Random Forest Classifier algorithm to predict customer churn within a banking context. Customer churn, or customer attrition, poses a critical challenge for businesses, necessitating proactive measures to retain customers and sustain business growth.
@@ -11,7 +11,7 @@ The model's performance evaluation entailed a thorough examination of metrics su
 
 The culmination of this endeavor yielded a highly effective predictive model, showcasing promising results with an accuracy score of [insert accuracy score here]. By deploying this model, businesses can proactively identify customers at risk of churn and devise targeted retention strategies, thereby enhancing customer retention rates and bolstering overall business profitability.
 
-### Dataset Terminologies:
+Dataset Terminologies:
 1. **Complain**: Binary indicator denoting whether the customer has filed a complaint (0: No, 1: Yes).
 2. **Age**: Age of the customer.
 3. **NumOfProducts**: Number of bank products utilized by the customer.
