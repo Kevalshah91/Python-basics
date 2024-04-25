@@ -1,0 +1,27 @@
+### Project Description:
+Title: Customer Churn Prediction
+
+This project aims to develop a robust machine learning model employing the Random Forest Classifier algorithm to predict customer churn within a banking context. Customer churn, or customer attrition, poses a critical challenge for businesses, necessitating proactive measures to retain customers and sustain business growth.
+
+The dataset utilized in this project encompasses diverse customer attributes, including demographics, banking behaviors, and interactions with the bank. A comprehensive exploratory data analysis (EDA) was conducted to unveil the dataset's intrinsic characteristics and discern pivotal factors influencing customer churn.
+
+Subsequently, meticulous data preprocessing techniques were applied, encompassing handling missing values, encoding categorical variables, and scaling numerical features. The preprocessed data served as the foundation for training a Random Forest Classifier model tailored to forecast customer churn.
+
+The model's performance evaluation entailed a thorough examination of metrics such as accuracy, precision, recall, and F1-score. Additionally, cross-validation techniques were employed to gauge the model's robustness and generalization capabilities.
+
+The culmination of this endeavor yielded a highly effective predictive model, showcasing promising results with an accuracy score of [insert accuracy score here]. By deploying this model, businesses can proactively identify customers at risk of churn and devise targeted retention strategies, thereby enhancing customer retention rates and bolstering overall business profitability.
+
+### Dataset Terminologies:
+1. **Complain**: Binary indicator denoting whether the customer has filed a complaint (0: No, 1: Yes).
+2. **Age**: Age of the customer.
+3. **NumOfProducts**: Number of bank products utilized by the customer.
+4. **Balance**: Account balance of the customer.
+5. **IsActiveMember**: Binary indicator signifying whether the customer is an active member (0: No, 1: Yes).
+6. **Point Earned**: Points accrued by the customer through banking transactions.
+7. **EstimatedSalary**: Estimated salary of the customer.
+8. **CreditScore**: Credit score of the customer.
+9. **Tenure**: Duration of the customer's tenure with the bank.
+10. **Geography**: Geographic location of the customer (0: France, 1: Germany, 2: Spain).
+11. **Gender**: Gender of the customer (0: Female, 1: Male).
+
+These defined terminologies offer valuable insights into the attributes employed for predicting customer churn and serve as essential reference points for interpreting the project's outcomes.
